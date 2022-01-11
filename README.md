@@ -1,6 +1,6 @@
 # Web3D-MPU6050
 ESP8266使用MPU6050解算欧拉角，发送至MQTT服务器，Web端展示3D实时姿态
-
+MQTT服务端使用EMQX。
 ## Web端
 
 ### 引用JS库：
